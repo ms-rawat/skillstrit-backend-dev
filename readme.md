@@ -46,7 +46,7 @@ Endpoints
 - Body: Array of JSON objects representing notes.
 # 3. Update Note
 - Method: PUT
-- URL: /update/:id
+- URL: `/update/:id`
 - Request Body:
   - Format: JSON
 - Fields:
@@ -57,7 +57,7 @@ Endpoints
 - Body: JSON object representing the updated note.
 # 4. Delete Note
 - Method: DELETE
-- URL: /:id
+- URL: `/:id`
 - Request Body: (No request body for a DELETE request)
 - Response:
   - Status: 200 OK (or 204 No Content)
