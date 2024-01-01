@@ -1,0 +1,19 @@
+# Ignore Node modules in the server folder
+server/node_modules/
+
+# Ignore environment files in the server folder
+server/.env
+
+# Ignore build output
+server/dist/
+server/build/
+
+# Ignore logs
+server/logs/
+server/*.log
+
+# Ignore MongoDB data
+server/data/
+
+# Ignore Visual Studio Code specific files
+server/.vscode/
