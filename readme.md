@@ -84,14 +84,14 @@ Password: password
  - Body: JSON object representing the created note.
 # 2. Retrieve Notes
 - Method: GET
-- URL: /
+- URL: `/`
 - Request Body: (No request body for a GET request)
 - Response:
  - Status: 200 OK
 - Body: Array of JSON objects representing notes.
 # 3. Update Note
 - Method: PUT
-- URL: /update/:id
+- URL: `/update/:id`
 - Request Body:
 - Format: JSON
 - Fields:
@@ -102,7 +102,7 @@ Password: password
 - Body: JSON object representing the updated note.
 # 4. Delete Note
 - Method: DELETE
-- URL: /:id
+- URL: `/:id`
 - Request Body: (No request body for a DELETE request)
 - Response:
  - Status: 200 OK (or 204 No Content)
