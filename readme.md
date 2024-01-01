@@ -1,5 +1,9 @@
 
-
+# insttalation guide 
+- clone the repo 
+- cd server
+- yard add 
+- node app.js [this will start the development server]
 
 **API Documentation**
 
