@@ -20,7 +20,7 @@ Endpoints
 - Fields:
  - title (string, required): Title of the note.
  - content (string, required): Content of the note.
--Response:
+- Response:
  - Status: 200 OK
  - Body: JSON object representing the created note.
 # 2. Retrieve Notes
