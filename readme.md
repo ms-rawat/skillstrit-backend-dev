@@ -5,9 +5,9 @@
 - yard add 
 - node app.js [this will start the development server]
 
-**API Documentation**
+# **API Documentation**
 
-# **Overview**
+**Overview**
 The Simple Note-Taking API provides CRUD (Create, Read, Update, Delete) operations for managing text notes. It is built using Node.js, Express.js, and MongoDB. The API supports basic authentication (Optional).
 
 Base URL
