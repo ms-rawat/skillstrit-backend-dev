@@ -1,5 +1,5 @@
 
-# insttalation guide 
+# Installation guide 
 - clone the repo 
 - cd server
 - yard add 
