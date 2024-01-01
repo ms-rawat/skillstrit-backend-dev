@@ -47,7 +47,7 @@ Base URL
 - Request Body: (No request body for a DELETE request)
 - Response:
   - Status: 200 OK (or 204 No Content)
--Body: Message indicating successful deletion.
+- Body: Message indicating successful deletion.
 # Error Handling
 In case of validation errors during note creation or updating, the API responds with a 400 Bad Request status and provides details about the validation errors in the response body.
 If a non-existent note is requested for update or delete, the API responds with a 404 Not Found status.
