@@ -9,9 +9,9 @@ The Simple Note-Taking API provides CRUD (Create, Read, Update, Delete) operatio
 Base URL
 `http://localhost:3000/api/notes`
 
-```
-Endpoints
-```
+
+### Endpoints
+
 # 1. Create Note
 
 
