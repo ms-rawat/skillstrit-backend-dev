@@ -59,7 +59,7 @@ For other unexpected errors, a 500 Internal Server Error is returned.
 # Authentication 
 Basic Authentication is supported for all endpoints.
 ## Credentials:
-Username: mohar
-Password: password
+  - Username: mohar
+  - Password: password
 
 
