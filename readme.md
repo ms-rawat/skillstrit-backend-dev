@@ -13,20 +13,6 @@ Base URL
 ### Endpoints
 
 # 1. Create Note
-
-
-**API Documentation**
-
-# **Overview**
-The Simple Note-Taking API provides CRUD (Create, Read, Update, Delete) operations for managing text notes. It is built using Node.js, Express.js, and MongoDB. The API supports basic authentication (Optional).
-
-Base URL
-`http://localhost:3000/api/notes`
-
-```
-Endpoints
-```
-# 1. Create Note
 - Method: POST
 - URL: `/create`
 - Request Body:
